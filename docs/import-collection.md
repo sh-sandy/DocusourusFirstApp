@@ -1,7 +1,6 @@
 ---
 id: import-collection
-title: How to Import a Collection
-sidebar_position: 4
+title: Import a Collection in Postman
 ---
 
 # How to Import a Postman Collection
